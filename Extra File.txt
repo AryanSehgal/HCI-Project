@@ -1,0 +1,2 @@
+Content inside extra file
+Adding an extra line
